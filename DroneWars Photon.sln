@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneWars Photon.CSharp.Plugins", "DroneWars Photon.CSharp.Plugins.csproj", "{64B5C25C-211D-A717-640C-D230B8B0A653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneWars Photon.CSharp", "DroneWars Photon.CSharp.csproj", "{3E47DE76-73C6-8D17-3C20-3AE58C0B238D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneWars Photon.CSharp.Editor", "DroneWars Photon.CSharp.Editor.csproj", "{5FF04A77-7FA6-76FA-E6D0-58B97CF89E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64B5C25C-211D-A717-640C-D230B8B0A653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B5C25C-211D-A717-640C-D230B8B0A653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B5C25C-211D-A717-640C-D230B8B0A653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B5C25C-211D-A717-640C-D230B8B0A653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E47DE76-73C6-8D17-3C20-3AE58C0B238D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E47DE76-73C6-8D17-3C20-3AE58C0B238D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E47DE76-73C6-8D17-3C20-3AE58C0B238D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E47DE76-73C6-8D17-3C20-3AE58C0B238D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF04A77-7FA6-76FA-E6D0-58B97CF89E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF04A77-7FA6-76FA-E6D0-58B97CF89E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF04A77-7FA6-76FA-E6D0-58B97CF89E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF04A77-7FA6-76FA-E6D0-58B97CF89E22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
